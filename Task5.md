@@ -16,7 +16,7 @@ This system is useful for object detection, obstacle avoidance, and safety appli
 
 The SMART ULTRASONIC PROXIMITY DETECTOR WITH BUZZER ALERT offers precise distance measurement and quick response using essential components. The VSD SQUADRON MINI, driven by the CH32V003F4U6 microcontroller (32-bit RISC-V core, RV32EC instruction set), efficiently processes sensor data and manages outputs. The HC-SR04 ultrasonic sensor detects object proximity by measuring sound wave time delay. A breadboard allows solderless circuit assembly, and jumper wires ensure seamless connections. This creates a fast, reliable proximity detection system suitable for automation and safety applications.
 
-# CIRCUIT DIAGRAM #
+
 
 # PIN CONNECTIONS #
 HC-SRO4 sensor | CH32V003x Pin
